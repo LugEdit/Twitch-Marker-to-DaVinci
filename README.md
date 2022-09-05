@@ -19,7 +19,7 @@ Workflow Integration for DaVinci Resolve to import Twitch VOD Markers from .csv 
 ![image](https://user-images.githubusercontent.com/106890554/188338074-ad3a912c-16b8-4aae-adea-b0baab99d33b.png)
 
 * The window should pop up and you'll be ready to go!
-___
+
 ## How to use:
 ![image](https://user-images.githubusercontent.com/106890554/188339858-725dc65c-6c3e-4ddf-9ad5-3dea980fa907.png)
 
@@ -35,7 +35,7 @@ Here you can select the color of the markers you want to import and/or want to d
 This allows you to choose whether you want to import the markers on the timeline *(above the video/audio tracks)* or on the video track *(harder to see but can transfer over into the **Fusion** tab)* ***\*\*(Only applies to the selected track!)***
 ### 6. Delete markers
 Pretty self-explanatory, the `All` button will delete all markers on the timeline **AND** track. The `By Color` button will delete all markers of the selected color above **(4)**
-___
+
 ## How to get CSV data:
 On Twitch, you can download a CSV file containing timestamps of popular clips and/or timestamps of markers placed by you. *(using /marker in the twitch chat)*
 * First, go to `https://dashboard.twitch.tv/u/[YOUR CHANNEL NAME HERE]/content/video-producer`
