@@ -24,7 +24,7 @@ ___
 ![image](https://user-images.githubusercontent.com/106890554/188339858-725dc65c-6c3e-4ddf-9ad5-3dea980fa907.png)
 
 ### 1. Import:
-Click to open the file browser to select your CSV file. \*\***(WINDOW MAY APPEAR UNDER THE PROGRAM, MINIMIZE DAVINCI TO FIND)**
+Click to open the file browser to select your CSV file. ***\*\*(WINDOW MAY APPEAR UNDER THE PROGRAM, MINIMIZE DAVINCI TO FIND)***
 ### 2. CSV Content Box:
 When you import the CSV file, this box will show you the contents of the CSV file. You probably won't have to edit this ever, but it lets you peek at the markers to know what file you picked.
 ### 3. Start and End Time:
